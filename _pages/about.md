@@ -13,4 +13,7 @@ redirect_from:
 
 * I am also a member of UBC Orbit where I am part of the Electrical Power Systems subteam. EPS is essentially the heart of the satellite, focusing on battery and solar management. During my time with the team, I've been able to gain software and hardware experience. This includes:
     * Refining and maintaing the Python-based dynamic power model for the satellite with a focus on establishing a precise energy budget. This helped strengthen my python, wsl, git skills and object-orientated programming skills.
-    * Developing 
+    * Developing a python script to determine the healthiness of a solar panel. This scripts covers topics like image processing, k-means, morphological operations and much more. This project also deepened my understanding of python programming as well as using libraries such as OpenCV, NumPy, Matplotlib, etc.
+    * Over the summer, I was given the opportunity to design a H-Bridge DC Motor Driver PCB. This PCB was designed using KiCAD which taught me the core fundamentals of PCB design. This was an iterative process exploring different component layouts and selections while referring to datasheets provided by manufacturers.
+
+* Outside of school and work I like to venture outdoors, hangout with friends and enjoy what life has to offer!
