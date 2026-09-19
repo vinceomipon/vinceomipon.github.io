@@ -4,7 +4,7 @@ excerpt: "PCB Design of a keyboard using MX switches and a RP2040<br/><img src='
 collection: portfolio
 ---
 
-![Keyboard PCB](http://localhost:4000/images/kb_pcb.png)
+![Keyboard PCB]({{site.baseurl}}/images/kb_pcb.png)
 
 I designed a custom mechanical keyboard PCB from the ground up using KiCAD. I wanted to learn the basics of PCB design and I felt that this design oject would be a good start. This project encompasses optimizing component layout and tracks, dual-layer PCB routing and component selection.
 
@@ -15,8 +15,8 @@ I designed a custom mechanical keyboard PCB from the ground up using KiCAD. I wa
 
 This project helped develop my understanding of the fundamentals of PCB design. It taught me how to use KiCADs and the many factors that come into play when considering component placement, layout and track routing.
 
-![Keyboard PCB Back Layer](http://localhost:4000/images/kb_pcb_layer_one.png)
+![Keyboard PCB Back Layer]({{site.baseurl}}/images/kb_pcb_layer_one.png)
 
-![Keyboard PCB Front Layer](http://localhost:4000/images/kb_pcb_layer_two.png)
+![Keyboard PCB Front Layer]({{site.baseurl}}/images/kb_pcb_layer_two.png)
 
-![Keyboard Schematic Layer](http://localhost:4000/images/kb_schematic.png)
+![Keyboard Schematic Layer]({{site.baseurl}}/images/kb_schematic.png)
